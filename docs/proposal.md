@@ -518,8 +518,8 @@ graph TD
 - **Equity:** 50% ownership
 
 #### Angel Investor Contribution (Cash)
-- **Marketing & Operations Investment:** 1,000,000 THB
-- **Purpose:** Customer acquisition, brand building, initial operations
+- **Working Capital Investment:** 1,000,000 THB
+- **Purpose:** Fund initial shared operational costs (Marketing, Hosting, 3rd Party Services)
 - **Form:** Cash investment
 - **Equity:** 50% ownership
 
@@ -539,17 +539,27 @@ Development costs breakdown:
 
 **Angel Investor Cash Investment: 1,000,000 THB**
 
-Marketing and operations breakdown:
-- Launch Marketing Campaign: 300,000 THB
-- Partner Acquisition (20-30 pilot stores): 200,000 THB
-- Customer Acquisition: 200,000 THB
-- Cloud Hosting (6 months): 100,000 THB
-- 3rd Party Services (6 months): 100,000 THB
-  - Google Maps API
-  - Twilio SMS
+**Initial Working Capital Allocation (Shared Costs):**
+This capital covers the project's initial expenses. Following the depletion of these funds or the generation of revenue, these costs are deducted from Gross Revenue.
+
+- **Marketing:** 300,000 THB
+- **Partner Acquisition:** 200,000 THB
+- **Customer Acquisition:** 200,000 THB
+- **Operational Reserve (Hosting, 3rd Party, Support):** 300,000 THB
+  - Cloud Hosting
+  - Google Maps API & Twilio SMS
   - PromptPay fees
-  - Firebase
-- Support & Operations: 100,000 THB
+  - Support staff
+
+### Profit Sharing Model
+
+**Net Profit Calculation:**
+Net Profit = Gross Revenue - (Hosting + 3rd Party Services + Marketing + Staff + Other Operational Costs)
+
+**Distribution:**
+- **50%** to DOS
+- **50%** to Angel Investor
+*Note: Hosting and 3rd-party service costs are treated as common project expenses deducted before any profit sharing.*
 
 ### Intellectual Property Rights
 
@@ -763,7 +773,7 @@ When Phase 1 proves successful and additional capital is needed:
 
 **Total Labor: 1,000,000 THB**
 
-### Marketing & Operations Investment (Angel): 1,000,000 THB
+**Shared Operational Costs Allocation (Funded by Angel Capital): 1,000,000 THB**
 
 **Marketing (6 months):**
 - Launch Campaign (social media, influencers): 300,000 THB
@@ -771,7 +781,8 @@ When Phase 1 proves successful and additional capital is needed:
 - Customer Acquisition (promotions, ads): 200,000 THB
 - Content Creation (photos, videos): 50,000 THB
 
-**Operations (6 months):**
+**Operations Reserve (6 months):**
+*Note: These are shared project costs, initially funded by the Working Capital.*
 - Cloud Hosting (AWS/GCP basic tier): 100,000 THB
 - 3rd Party Services:
   - Google Maps API: 30,000 THB
@@ -781,7 +792,7 @@ When Phase 1 proves successful and additional capital is needed:
   - Domain, SSL, misc: 10,000 THB
 - Customer Support (part-time staff): 70,000 THB
 
-**Total Angel Investment: 1,000,000 THB**
+**Total Cash Investment (Working Capital): 1,000,000 THB**
 
 ### Total Phase 1 Investment: 2,000,000 THB
 
